@@ -1,0 +1,8 @@
+{
+  "name": "Ukuli-Tietomeri-Ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "29873a57"
+}
